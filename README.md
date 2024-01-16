@@ -39,6 +39,9 @@ Stay updated and connect with Ivana on social media:
 
 *"Ivana's strategic approach to social media has been instrumental in expanding our brand reach. Highly recommended!" - Client B*
 
+## My Site
+
+
 ## License
 
 This project and its content are open-sourced under the [MIT License](LICENSE).
