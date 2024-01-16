@@ -1,4 +1,4 @@
-# Ivana--digital-marketing-consultant
+# Ivana--Digital-Marketing-Consultant
 Creating an Ivana - digital marketing consultant using HTML and CSS
 
 ## Services
