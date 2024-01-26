@@ -43,9 +43,11 @@ Stay updated and connect with Ivana on social media:
 
  -  https://janashree2004.github.io/Ivana---digital-marketing-consultant/
 
+## Output
+
+
+
 ## License
 
 This project and its content are open-sourced under the [MIT License](LICENSE).
-
----
 Feel free to customize this template to include additional details, testimonials, or any specific information that represents Ivana's expertise and services. Once customized, save the changes and commit them to your GitHub repository.
