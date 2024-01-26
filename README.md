@@ -36,10 +36,6 @@ Stay updated and connect with Ivana on social media:
 *"Working with Ivana was a game-changer for our business. Her expertise significantly boosted our online presence." - Client A*
 *"Ivana's strategic approach to social media has been instrumental in expanding our brand reach. Highly recommended!" - Client B*
 
-## My Site
-
- -  https://janashree2004.github.io/Ivana---digital-marketing-consultant/
-
 ## Output
 
 ![image](https://github.com/Janashree2004/Ivana---digital-marketing-consultant/assets/142415775/6c5cc592-2542-41a2-bc42-6b649b652e93)
