@@ -29,14 +29,11 @@ For inquiries or to discuss your digital marketing needs, feel free to reach out
 
 Stay updated and connect with Ivana on social media:
 
-- [LinkedIn](https://www.linkedin.com/in/ivanadigitalmarketing/)
-- [Twitter](https://twitter.com/ivanadigital)
-- [Instagram](https://www.instagram.com/ivanadigital/)
+- [LinkedIn](https://www.linkedin.com/posts/jana-shree-68029224a_webdevelopment-innovation-internshipsuccess-activity-7154041155297415168-fNPp?utm_source=share&utm_medium=member_desktop)
 
 ## Testimonials
 
 *"Working with Ivana was a game-changer for our business. Her expertise significantly boosted our online presence." - Client A*
-
 *"Ivana's strategic approach to social media has been instrumental in expanding our brand reach. Highly recommended!" - Client B*
 
 ## My Site
@@ -44,8 +41,6 @@ Stay updated and connect with Ivana on social media:
  -  https://janashree2004.github.io/Ivana---digital-marketing-consultant/
 
 ## Output
-
-https://html-css-js.com/
 
 ![image](https://github.com/Janashree2004/Ivana---digital-marketing-consultant/assets/142415775/6c5cc592-2542-41a2-bc42-6b649b652e93)
 ![image](https://github.com/Janashree2004/Ivana---digital-marketing-consultant/assets/142415775/2ddfa5dc-4524-4b22-8e1a-b40fe107e56f)
