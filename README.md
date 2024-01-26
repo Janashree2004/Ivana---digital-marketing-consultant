@@ -46,6 +46,7 @@ Stay updated and connect with Ivana on social media:
 ## Output
 
 ![image](https://github.com/Janashree2004/Ivana---digital-marketing-consultant/assets/142415775/6c5cc592-2542-41a2-bc42-6b649b652e93)
+![image](https://github.com/Janashree2004/Ivana---digital-marketing-consultant/assets/142415775/2ddfa5dc-4524-4b22-8e1a-b40fe107e56f)
 
 
 ## License
